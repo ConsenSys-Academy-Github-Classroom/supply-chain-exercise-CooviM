@@ -41,6 +41,7 @@ and `only` which runs only that test. But what if more than one test have the
   - [ ] should have an skuCount
     <details><summary>:book:</summary>
 
+
     The contract will keep track of the
     [sku](https://en.wikipedia.org/wiki/Stock_keeping_unit)s in our supply
     chain. Each item for sale will have a unique sku number. 
